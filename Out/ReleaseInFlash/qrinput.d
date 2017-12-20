@@ -1,0 +1,10 @@
+.\out\releaseinflash\qrinput.o: QRCodes\qrinput.c
+.\out\releaseinflash\qrinput.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+.\out\releaseinflash\qrinput.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\out\releaseinflash\qrinput.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\out\releaseinflash\qrinput.o: C:\Keil\ARM\ARMCC\bin\..\include\errno.h
+.\out\releaseinflash\qrinput.o: QRCodes\qrencode.h
+.\out\releaseinflash\qrinput.o: QRCodes\qrspec.h
+.\out\releaseinflash\qrinput.o: QRCodes\mqrspec.h
+.\out\releaseinflash\qrinput.o: QRCodes\bitstream.h
+.\out\releaseinflash\qrinput.o: QRCodes\qrinput.h

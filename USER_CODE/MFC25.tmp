@@ -1,0 +1,45 @@
+#ifndef _ALLHAND_H_
+#define _ALLHAND_H_
+
+#include <stdlib.h>
+#include <string.h>
+#include <math.h>
+#include <LPC177x_8x.H>
+#include "stdint.h"
+#include "lcd.h"
+#include "../config.h"
+#include "includes.h"
+#include "TypeDefine.h"
+#include "os_cpu.h"
+#include "os_cfg.h"
+#include "ucos_ii.h"
+#include "TypeDefine.h"
+#include "main.h"
+#include "I2CINT.h"
+#include "PCF8563.h"
+#include "MX25L1602Drv.h"
+#include "att7053.h"
+#include "rs232.h"
+#include "lcd.h"
+#include "FM1702.h"
+#include "fram.h"
+#include "datastructure.h"
+#include "mathh.h"
+#include "w5100.h"
+#include "gprs.h"
+#include "myfun.h"
+#include "t6963.h"
+#include "PTL104.h"
+#include "UpLinkCommand_Task.h"
+#include "wifi.h"
+#include "IAP.h"
+#include "global.h"
+#include "calendar.h"
+#include "bitfield.h"
+#include "datadefine.h"
+#include "dl645a.h"
+#include "uart0.h"
+#include "uart1.h"
+
+#endif
+

@@ -1,0 +1,13 @@
+.\out\releaseinflash\zjlcm.o: MoudleAPI\zjlcm.c
+.\out\releaseinflash\zjlcm.o: .\USER_CODE\AllHand.h
+.\out\releaseinflash\zjlcm.o: .\LPC177x_8x\LPC177x_8x.H
+.\out\releaseinflash\zjlcm.o: .\CM3\core_cm3.h
+.\out\releaseinflash\zjlcm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\releaseinflash\zjlcm.o: .\CM3\core_cmInstr.h
+.\out\releaseinflash\zjlcm.o: .\CM3\core_cmFunc.h
+.\out\releaseinflash\zjlcm.o: .\LPC177x_8x\system_LPC177x_8x.h
+.\out\releaseinflash\zjlcm.o: .\uCOS-II\Ports\os_cpu.h
+.\out\releaseinflash\zjlcm.o: .\USER_CODE\os_cfg.h
+.\out\releaseinflash\zjlcm.o: .\uCOS-II\Source\ucos_ii.h
+.\out\releaseinflash\zjlcm.o: .\USER_CODE\AllHand.h
+.\out\releaseinflash\zjlcm.o: .\MoudleAPI\t6963\t6963.h

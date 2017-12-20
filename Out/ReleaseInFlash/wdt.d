@@ -1,0 +1,10 @@
+.\out\releaseinflash\wdt.o: HAREWARE\WDT\wdt.c
+.\out\releaseinflash\wdt.o: .\CM3\../LPC177x_8x/LPC177x_8x.h
+.\out\releaseinflash\wdt.o: .\CM3\core_cm3.h
+.\out\releaseinflash\wdt.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\out\releaseinflash\wdt.o: .\CM3\core_cmInstr.h
+.\out\releaseinflash\wdt.o: .\CM3\core_cmFunc.h
+.\out\releaseinflash\wdt.o: .\CM3\../LPC177x_8x/system_LPC177x_8x.h
+.\out\releaseinflash\wdt.o: .\CM3\../LPC177x_8x/type.h
+.\out\releaseinflash\wdt.o: HAREWARE\WDT\wdt.h
+.\out\releaseinflash\wdt.o: .\CM3\../LPC177x_8x/type.h

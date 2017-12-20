@@ -1,0 +1,9 @@
+.\out\releaseinflash\split.o: QRCodes\split.c
+.\out\releaseinflash\split.o: C:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\out\releaseinflash\split.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\out\releaseinflash\split.o: C:\Keil\ARM\ARMCC\bin\..\include\errno.h
+.\out\releaseinflash\split.o: QRCodes\qrencode.h
+.\out\releaseinflash\split.o: QRCodes\qrinput.h
+.\out\releaseinflash\split.o: QRCodes\bitstream.h
+.\out\releaseinflash\split.o: QRCodes\qrspec.h
+.\out\releaseinflash\split.o: QRCodes\split.h
